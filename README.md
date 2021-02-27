@@ -1,0 +1,1 @@
+Python program to search and read news from "The Verge" with simple GUI.
