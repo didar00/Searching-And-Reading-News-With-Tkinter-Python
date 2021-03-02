@@ -43,7 +43,6 @@ def search():
         content_lbl = Label(news_frame, text=content, font=("monospace", 11), textvariable=url)
         content_lbl.pack()
         content_lbl.bind("<Button-1>", callback)
-        print(title)
 
 # when the title or the content of the news
 # is clicked
